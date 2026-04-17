@@ -269,6 +269,12 @@ blenderpluginatlas/
 Built on top of [**ahujasid/blender mcp**](https://github.com/ahujasid/blender-mcp) — go star their repo.  
 Source scan pattern inspired by debugging Serpens authored plugins in the wild.
 
+## 👤 Contributors
+
+<a href="https://github.com/MastroMimmo"><img src="https://github.com/MastroMimmo.png?size=80" width="80" height="80" alt="MastroMimmo" style="border-radius:50%"></a>
+
+- [**@MastroMimmo**](https://github.com/MastroMimmo) — author, maintainer
+
 <br/>
 
 <div align="center">
